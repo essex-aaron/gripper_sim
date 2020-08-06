@@ -48,7 +48,7 @@
     name="finger1_link">
     <inertial>
       <origin
-        xyz="0.056976 0.015337 0.01676"
+        xyz="0.030811 0.05032 0.01676"
         rpy="0 0 0" />
       <mass
         value="0.0167" />
@@ -101,7 +101,7 @@
     name="finger2_link">
     <inertial>
       <origin
-        xyz="0.052556 0.013896 -0.0074998"
+        xyz="0.049623 0.022198 -0.0074998"
         rpy="0 0 0" />
       <mass
         value="0.016641" />
